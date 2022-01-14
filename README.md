@@ -1,6 +1,6 @@
 # Create URL Schemes
 
-![Screen Shot 2022-01-14 at 10.22.05 PM.png](./img1.png)
+![img1](./img1.png)
 
 # AppDelegate
 
